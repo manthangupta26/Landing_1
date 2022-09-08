@@ -8,7 +8,7 @@ Made a Beautiful Landing Page
 ___
 Click here to go the home page which is deployed via Netlify.
 
-[Click me]()
+[Click me](https://verdant-nasturtium-5d073d.netlify.app/)
 
 ### Screenshots
 ___
